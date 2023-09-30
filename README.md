@@ -110,7 +110,7 @@ plt.show()
 
 ```
 <img src="https://github.com/Jung028/covid/blob/main/covid-asian.png?raw=true" alt="Graph1" width="900"/>
-
+<img src="https://github.com/Jung028/covid/blob/main/image2.png?raw=true" alt="Graph2" width="900"/>
 
 
 
