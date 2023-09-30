@@ -13,6 +13,16 @@ The COVID-19 Data Analysis and Predictive Modeling project aims to provide insig
 - Interactive dashboard for visualization.
 - Customizable for specific countries or regions.
 
+# Libraries & APIs Used 
+
+Where I got the API from : 
+- https://rapidapi.com/api-sports/api/covid-193
+Here, I utilised the countries API for displaying the countries that the API covers data on. The History API is used to search for the countries with the COVID-19 Cases by Country (Most Cases to Least Cases), in which I used Malaysia and China for example.
+
+I also used it for displaying 3 graphs, one for total cases in Asian Countries, one for new cases, and a predictive modelling for forecasting the future cases. 
+Finally, to create the Search application, using the dash, dash-table library.
+
+
 ## Getting Started
 
 To get started with this project, follow these steps:
@@ -26,12 +36,6 @@ To get started with this project, follow these steps:
 - Enter the name of a country or region in the search input.
 - Click the "Search" button to view historical data and predictions.
 - Explore the interactive dashboard.
-
-
-## Explaination 
-The
-
-
 
 
 ## Code Snippets
@@ -111,6 +115,24 @@ plt.show()
 ```
 <img src="https://github.com/Jung028/covid/blob/main/covid-asian.png?raw=true" alt="Graph1" width="900"/>
 <img src="https://github.com/Jung028/covid/blob/main/image2.png?raw=true" alt="Graph2" width="900"/>
+
+
+
+## Full Documentation 
+- for a full documentation on this project, click here.
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
