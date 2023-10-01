@@ -119,7 +119,7 @@ plt.show()
 
 
 ## Full Documentation 
-- for a full documentation on this project, click here.
+- for a full documentation on this project, click [here](https://dev.to/nswer/covid-19-forecasting-and-analysis-4j3d).
   
 
 
